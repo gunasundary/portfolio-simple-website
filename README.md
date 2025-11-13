@@ -14,6 +14,6 @@ It includes two pages — **Home** and **Contact** — to showcase basic web des
 - **CSS3** – For styling and layout
 
 ## 🚀 How to View
-can you access my website by visiting (link) feel free explore the content and get in touch.
+can you access my website by visiting https://gunasundary.github.io/portfolio-simple-website/ feel free explore the content and get in touch.
 
 thank you for visiting for my portfolio website
